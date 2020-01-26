@@ -8,3 +8,16 @@
 # replace() replace certain letters 
 # FirstName="Tom"
 # print(FirstName.find("enter search"))
+# a=58
+# b=108
+# if a>b : print("A")
+# else: print("B")
+# a = int(input("a number:"))
+# b = int(input("b number:"))
+# if a==b:print("a and b are equal")
+# else:print("a and b are NOT equal")
+a = int(input("a number:"))
+# b = int(input("b number:"))
+if a<100: print("a is smaller than 100")
+elif a<1000: print ("a is smaller than 1000")
+else:print("a is greater than 100")
